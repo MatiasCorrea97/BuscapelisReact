@@ -1,2 +1,0 @@
-# BuscapelisReact
-buscapelis-React
